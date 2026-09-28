@@ -113,9 +113,9 @@ Generative AI      █████░░░░░░  Exploring
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: **[Add your LinkedIn](YOUR_LINKEDIN_URL)**
-📧 Email: **[Add your email](mailto:YOUR_EMAIL)**
-💻 GitHub: **[@YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+💼 LinkedIn: **[Add your LinkedIn]([OUR_LINKEDIN_URL](https://www.linkedin.com/in/bhumika-b3075a321/))**
+📧 Email: **[Add your email](bhumika.codes04@gmail.com)**
+💻 GitHub: **[@YOUR_USERNAME]([https://github.com/YOUR_USERNAME](https://github.com/Bhumikajii))**
 
 ---
 
